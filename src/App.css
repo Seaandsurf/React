@@ -71,9 +71,7 @@ ul {
 .square:hover {
   background: linear-gradient(-225deg, #cacaca, #f0f0f0);
 }
-.square:focus,
-.square:focus-visible {
-}
+
 
 .board-row:after {
   clear: both;
